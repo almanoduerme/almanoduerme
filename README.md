@@ -1,11 +1,11 @@
 ### Hi! 👋
 
 
-I am Nahuel, a Full Stack Web/App Developer with over 3 years of experience. My journey has led me through diverse domains, commencing with web development and subsequently venturing into software development. My work ethic is characterized by diligence and a strong focus on achieving goals, consistently yielding tangible results.
+I am Nahuel, a Backend Developer with over 3 years of experience. My journey has led me through diverse domains, commencing with web development and subsequently venturing into software development. My work ethic is characterized by diligence and a strong focus on achieving goals, consistently yielding tangible results.
 
 #### Tech Stack
 
-JavaScript, React, Node JS, Express JS, TypeScript, React Native, jQuery, HTML, CSS, SCSS, Boostrap, Chakra UI, REST API and more.
+JavaScript, Node JS, Express JS, Nest JS, Python, etc.
 
 ##### Motto
 
