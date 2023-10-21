@@ -5,7 +5,7 @@ I am Nahuel, a Backend Developer with over 3 years of experience. My journey has
 
 #### Tech Stack
 
-JavaScript, Node JS, Express JS, Nest JS, Python, etc.
+JavaScript, TypeScript, Python, Node JS, Express JS, Nest JS, etc.
 
 ##### Motto
 
