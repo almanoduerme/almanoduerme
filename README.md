@@ -1,15 +1,19 @@
-### Hi! 👋
+# Hello there, fellow developers! 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/tscraftcode)](https://twitter.com/tscraftcode)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/almanoduerme/)](https://www.instagram.com/almanoduerme)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuelagomez/)](https://www.linkedin.com/in/nahuelagomez/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahue.code@gmail.com)](mailto:nahuel.code@gmail.com)
 
-I am Nahuel, a Backend Developer with over 3 years of experience. My journey has led me through diverse domains, commencing with web development and subsequently venturing into software development. My work ethic is characterized by diligence and a strong focus on achieving goals, consistently yielding tangible results.
+I'm Nahuel, a Backend Developer and technology enthusiast from Argentina. I began my professional journey during the Covid-19 pandemic in 2020. Today, my responsibilities include developing and maintaining server-side logic, ensuring high performance and responsiveness to requests from the front-end, and managing database integration. I also focus on creating efficient APIs, optimizing backend processes, and collaborating with team members to set objectives and design scalable, robust systems.
 
-#### Tech Stack
+I thrive on new challenges, leveraging my backend development experience, strong problem-solving skills, and attention to detail to deliver effective solutions.
 
-JavaScript, TypeScript, Python, Node JS, Express JS, Nest JS, etc.
+Feel free to clone my projects, raise issues, and submit PRs if you have suggestions for improvements.
 
-##### Motto
+## Seeking knowledge all the time
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomeznahuel)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gomeznahueldev)
+- 🌱 I’m currently learning Web technologies to become a Full Stack Developer.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: Use any of the social media links above.
