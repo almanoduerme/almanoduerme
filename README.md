@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nahuelagomez/)](https://www.linkedin.com/in/nahuelagomez/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nahue.code@gmail.com)](mailto:nahuel.code@gmail.com)
 
-I'm Nahuel, a Backend Developer and technology enthusiast from Argentina. I began my professional journey during the Covid-19 pandemic in 2020. Today, my responsibilities include developing and maintaining server-side logic, ensuring high performance and responsiveness to requests from the front-end, and managing database integration. I also focus on creating efficient APIs, optimizing backend processes, and collaborating with team members to set objectives and design scalable, robust systems.
+I'm Nahuel, a Full Stack Developer and technology enthusiast from Argentina. I began my professional journey during the Covid-19 pandemic in 2020. Today, my responsibilities include developing and maintaining server-side logic, ensuring high performance and responsiveness to requests from the front-end, and managing database integration. I also focus on creating efficient APIs, optimizing backend processes, and collaborating with team members to set objectives and design scalable, robust systems.
 
 I thrive on new challenges, leveraging my backend development experience, strong problem-solving skills, and attention to detail to deliver effective solutions.
 
